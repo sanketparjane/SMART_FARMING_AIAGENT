@@ -3,7 +3,7 @@
 **Sanjivani University** | **School of Engineering & Technology**  
 **Department of Artificial Intelligence & Machine Learning** | Semester-V, Academic Year 2025–2026  
 
-![Sanjivani University Logo](./images/logo.png)
+
 
 ---
 
