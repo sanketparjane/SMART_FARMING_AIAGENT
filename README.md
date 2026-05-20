@@ -92,20 +92,6 @@ For example:
 
 The results demonstrate that the system effectively delivers localized and reliable agricultural guidance in an accessible format.
 
----
-
-## 📸 Project Screenshots
-
-### Agent Setup & Configuration
-![Agent Setup](./images/result1.png)
-
-### Agent Interface & Sample Questions
-![Agent Interface](./images/result2.png)
-
-### Agent Chat Interface Example
-![Agent Chat](./images/result3.png)
-
----
 
 ## 🚀 Future Scope
 - IoT-based sensor integration for real-time soil and crop monitoring
